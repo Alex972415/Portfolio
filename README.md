@@ -1,8 +1,8 @@
 # Portfolio
 ### Here are some of the projects I implemented that I completed during my studying at Yandex Practicum.
-№| Название проекта                  | Сфера          | Описание проекта | Стек |
+№| Project name                 | Area       | Project's description | Stack |
 -------| --------------------------------  | -------------- | --------------   | -------|
-1      | Исследование надежности заемщиков| Недвижимость   | Анализируем, влияет ли семейное положение, количество детей клиента, уровень дохода, цель кредита на факт погашения кредита в срок.   |Python, Pandas|
+1      | Investigation of the reliability of borrowers| Real estate   | We analyze whether the marital status, the number of children of the client, the level of income, the purpose of the loan affects the fact of repayment of the loan on time.  |Python, Pandas|
 2      | Исследование рынка недвижимости Северо-Западного федерального округа  | Недвижимость| Анализируем, какие факторы влияют на стоимость квартиры и квадратного метра  |Python, Pandas, Matplotlib |
 3      | Исследование сервиса аренды самокатов | Онлайн-приложения| Анализируем, какие подписки есть в приложении и проверяем гипотезы, которые помогут бизнесу вырасти  |Python, Pandas, Matplotlib, Scipy |
 4      | Исследование закономерностей, определяющих успешность игр  | Игры| Анализируем портреты пользователей и проверяем гипотезы, помогут сделать ставку на потенциально популярный продукт и спланировать рекламные кампании на следующий год. |Python, Pandas, Matplotlib, Scipy, NumPy |

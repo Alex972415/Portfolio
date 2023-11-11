@@ -1,5 +1,5 @@
 # Portfolio
-### Here are some of the projects I implemented that I completed during my studying at Yandex Practicum.
+### Here are some of the projects that I completed during my studying at Yandex Practicum.
 №| Project name                 | Area       | Project's description | Stack |
 -------| --------------------------------  | -------------- | --------------   | -------|
 1      | Investigation of the reliability of borrowers| Real estate   | We analyze whether the marital status, the number of children of the client, the level of income, the purpose of the loan affects the fact of repayment of the loan on time.  |Python, Pandas|

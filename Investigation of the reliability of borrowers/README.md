@@ -1,9 +1,11 @@
-Исследование надежности заемщиков
-Описание проекта
-Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение, количество детей клиента, уровень дохода, цель кредита на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга.
+# Investigation of the reliability of borrowers
+## Project Description
+The customer is the credit department of the bank. It is necessary to understand whether the marital status, the number of children of the client, the level of income, the purpose of the loan affects the fact of repayment of the loan on time.
+Input data from the bank — statistics on the solvency of customers.
+The results of the study will be taken into account when building a credit scoring model.
 
-Навыки и инструменты
-python
-pandas
-Выводы
-Ни количество детеей, ни семейное положение, ни уровень дохода и цель кредита, не оказывают решающего влияния на возврат кредита срок.
+## Skills and tools
+- python
+- pandas
+## Conclusions
+Neither the number of children, nor marital status, nor the level of income and the purpose of the loan, have a decisive influence on the repayment of the loan term.

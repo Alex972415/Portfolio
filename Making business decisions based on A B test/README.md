@@ -8,7 +8,7 @@ In this project, we will prioritize hypotheses, run an A/B test and analyze the 
 - matplotlib
 - numpy
 - scipy
-- - mann-whitney statistical test stats.mann whitney u
+- mann-whitney statistical test
 ## Conclusions
 - There is a statistically significant difference in the number of orders per user between groups A and B, the difference was 16% in favor of group B.
 - There is no statistically significant difference in the average check between groups A and B.

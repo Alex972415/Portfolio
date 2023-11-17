@@ -14,4 +14,4 @@ In this project, we will explore the history of TED conferences using Tableau.
 - There is no direct connection between the duration of the performance and the number of views.
 - The most popular fields of activity for authors are Writer, Artist, Author.
 - Most authors speak once.
-## [Link to the presentation:](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Book1_16923614362800/sheet1?publish=yes)
+## [Link to the presentation](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Book1_16923614362800/sheet1?publish=yes)

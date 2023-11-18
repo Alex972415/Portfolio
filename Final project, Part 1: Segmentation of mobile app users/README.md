@@ -29,5 +29,6 @@ In this project, we need to choose a method for segmenting users, divide users i
 ## Also, a dashboard was prepared for the presentation of insights obtained during the project. It includes:
 - Chart showing the number of events in the context of days
 - A chart showing the number of users who came from different sources
+  
 [Link to the dashboard](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Book2_16934053875060/Dashboard1?publish=yes)
  

@@ -1,4 +1,4 @@
-# Final project, Part 1: Segmentation of mobile app users
+# Final project, part 1: Segmentation of mobile app users
 ## Project Description
 We work in the team of the service "Unnecessary things" - applications for the sale of unnecessary things.
 The company's motto is "Unnecessary things" — someone else needs your unnecessary things!

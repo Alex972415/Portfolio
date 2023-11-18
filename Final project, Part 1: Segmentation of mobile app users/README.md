@@ -22,9 +22,12 @@ In this project, we need to choose a method for segmenting users, divide users i
 - It cannot be said that Yandex and Google users demonstrate different conversions to the target action.
 - It cannot be concluded that Yandex users spend more time in the application than Google users.
 ## Recommendations that can be given for the development of the application:
-1. Give discount promo codes to users from the target segment for the second or third purchase. In my opinion, if a user spends a lot of time in the app, then you can expect that he will make more than one purchase, respectively, so I suggest encouraging users to make more purchases.
-2. Considering that it is now November 5, 2019, on the eve of the New Year, you can select a list of users who have completed the most targeted actions or purchases and send out gift certificates to increase customer loyalty of the target segment and save them in 2020.
-3. You can analyze the first segment and try to identify the reasons why users spend little time in the application.
-4. Users from the first segment should be given a promo code for the first purchase. Perhaps this will increase their interest in the application.
-5. In anticipation of the most active hours (from 14 to 15 and from 19 to 21 hours), set up contextual advertising in Google and Yandex to attract users to the application.
+1. Give discount promo codes to users from the target segment for the second or third purchase. In my opinion, if a user spends a lot of time in the app, then we can expect that he will make more than one purchase, respectively, so I suggest encouraging users to make more purchases.
+2. Considering that it is now November 5, 2019, on the eve of the New Year, we can select a list of users who have completed the most targeted actions or purchases and send out gift certificates to increase customer loyalty of the target segment and save them in 2020.
+3. Users from the first segment should be given a promo code for the first purchase. Perhaps this will increase their interest in the application.
+4. In anticipation of the most active hours (from 14 to 15 and from 19 to 21 hours), let's set up contextual advertising in Google and Yandex to attract users to the application.
+## Also, a dashboard was prepared for the presentation of insights obtained during the project. It includes:
+- Chart showing the number of events in the context of days
+- A chart showing the number of users who came from different sources
+[Link to the dashboard](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Book2_16934053875060/Dashboard1?publish=yes)
  

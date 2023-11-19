@@ -24,6 +24,7 @@ It is impossible to say that the test was conducted correctly. This was influenc
 - Group A initially had many more users than Group B
 - it turned out that there are many more users in group B who did not commit any events
 - since we decided to delete users who were in group B of a competing test and users who did not commit the event, as a result, we had about 3,000 users left, while 6,277 users were required for the correct conduct of the test.
+
 As a result, we got a situation where there are fewer users than necessary and the test groups are disproportionate. As a result, in group A, users committed much more events, which affected the conversion.
 Also, the test coincided with the Christmas&New Year Promo event, respectively, it is impossible to say that users were not subjected to any external influence, and in my opinion this is another reason why it is impossible to say that the test was conducted correctly.
 ## Recommendations for the test:

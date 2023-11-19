@@ -6,6 +6,7 @@ The most important stages of verification:
 - make sure that there are no intersections with a competing test and there are no users participating in two test groups at the same time;
 - check the uniformity of the distribution of users in test groups and the correctness of their formation;
 - determine the users participating in the test;
+
 To determine which users participate in the test, we need to:
 - check who is participating in the test according to the task;
 - next, from the user data, leave only those who came from the target region;

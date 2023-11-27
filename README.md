@@ -13,3 +13,4 @@
 9      | Dashboards for TED talks | Public appearances| We analyze the history of TED conferences using Tableau and make conclusions|Python, Pandas, Tableau Public|
 10     | Advanced SQL  | StackOverflow Website| We write queries in the database based on data from StackOverflow|SQL, PostgreSQL, Python, Sqlalchemy|
 11     | Final project, Part 1: Segmentation of mobile app users  | Online applications| We perform a cohort analysis, choose a method for segmenting users depending on their behavior and determine the target segment of users for which the development team will then improve the application.|Python, Pandas, Matplotlib, Seaborn, NumPy, Scipy|
+12     | Final project, Part 2: Analysis of results and correctness of A/B test  | Online applications| Our task is to evaluate the results of the A/B test. We have a dataset with user actions, a technical task and several auxiliary datasets at our disposal.|Python, Pandas, Matplotlib, Seaborn, NumPy, Scipy|

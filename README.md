@@ -2,7 +2,7 @@
 ### Here are some of the projects that I completed during my studying at Yandex Practicum.
 №| Project name                 | Area       | Project's description | Stack |
 -------| --------------------------------  | -------------- | --------------   | -------|
-1      | Investigation of the reliability of borrowers| Real estate   | We analyze whether the marital status, the number of children of the client, the level of income, the purpose of the loan affects the fact of repayment of the loan on time.  |Python, Pandas|
+1      | [Investigation of the reliability of borrowers](https://github.com/Alex972415/Portfolio/tree/main/Investigation%20of%20the%20reliability%20of%20borrowers)| Real estate   | We analyze whether the marital status, the number of children of the client, the level of income, the purpose of the loan affects the fact of repayment of the loan on time.  |Python, Pandas|
 2      | Real estate market research in St. Petersburg and surrounding cities  | Real estate| We analyze what factors affect the cost of an apartment and a square meter  |Python, Pandas, Matplotlib |
 3      | Scooter rental service Research| Online applications| We analyze which subscriptions are available in the app and test hypotheses that will help the business grow  |Python, Pandas, Matplotlib, Scipy |
 4      |  Research of patterns that determine the success of computer games | Computer games| We analyze user behavior and test hypotheses that will help you bet on a potentially popular product and plan advertising campaigns for the next year. |Python, Pandas, Matplotlib, Scipy, NumPy |

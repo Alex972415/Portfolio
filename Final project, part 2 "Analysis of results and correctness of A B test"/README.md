@@ -1,5 +1,5 @@
 # Final project, Part 2: Analysis of results and correctness of A/B test
-Description and objectives of the project
+## Description and objectives of the project
 Our task is to evaluate the results of the A/B test. We have a dataset with user actions, a technical task and several auxiliary datasets at our disposal.
 We need to evaluate the correctness of the test and analyze its results.
 The most important stages of verification:
